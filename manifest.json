@@ -1,0 +1,10 @@
+{
+  "name": "猫的小屋",
+  "short_name": "小屋",
+  "description": "猫的温馨聊天小屋",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#FFF8F0",
+  "icons": []
+}
